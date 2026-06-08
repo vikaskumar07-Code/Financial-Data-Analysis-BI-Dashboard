@@ -33,18 +33,23 @@ This project solves that problem by creating:
 # Project Architecture
 
 Raw Financial CSV Files
+
 ↓
 
 Python Data Cleaning & Feature Engineering
+
 ↓
 
 Financial Master Dataset Creation
+
 ↓
 
 PostgreSQL Database Integration
+
 ↓
 
 Stakeholder SQL Analysis (25 Business Questions)
+
 ↓
 
 Power BI Dashboard & Reports
@@ -58,9 +63,6 @@ Multiple financial statement datasets were consolidated:
 * Annual P&L
 * Quarterly P&L
 * Balance Sheet
-* Cash Flow Statements
-* Price Dataset
-* Financial Ratios
 * Additional Metrics
 
 Final Output Dataset:
@@ -155,6 +157,7 @@ Identification of red flags and financially vulnerable companies.
 ---
 
 # Power BI Dashboard
+Dashboard : [https://github.com/vikaskumar07-Code/Financial-Data-Analysis-BI-Dashboard/blob/main/Power%20Bi%20dashboard/finance_analysis_dashboard.pdf]
 
 The final dashboard contains **4 business-focused pages**.
 
@@ -215,20 +218,16 @@ The final dashboard contains **4 business-focused pages**.
 Financial_analyst_project/
 
 ├── Data/
+
 ├── notebook/
+
 ├── SQL_queries/
+
 ├── Reports/
+
 ├── BI_report/
+
 ├── README.md
-
----
-
-# Future Improvements
-
-* Add ML-based stock scoring
-* Automated ETL pipeline
-* Real-time market integration
-* Portfolio recommendation engine
 
 ---
 
@@ -237,9 +236,8 @@ Financial_analyst_project/
 **Vikas Kumar**
 Financial Analytics | Data Analytics | Business Intelligence
 
-GitHub: [Add Link]
-LinkedIn: [Add Link]
-
+GitHub: [https://github.com/vikaskumar07-Code]
+LinkedIn: [https://www.linkedin.com/in/offivikas-kumar/]
 ---
 
 If you found this project interesting, feel free to connect or share feedback.
