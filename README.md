@@ -22,10 +22,15 @@ Financial data is often fragmented across multiple statements and difficult to i
 This project solves that problem by creating:
 
 ✔ Unified Financial Dataset
+
 ✔ KPI-driven Business Analysis
+
 ✔ Industry Benchmarking
+
 ✔ Growth & Valuation Insights
+
 ✔ Financial Risk Detection
+
 ✔ Executive-Level Dashboard
 
 ---
@@ -207,8 +212,11 @@ The final dashboard contains **4 business-focused pages**.
 # Project Outcomes
 
 ✔ Built a production-style financial analytics workflow
+
 ✔ Generated investment-oriented insights
+
 ✔ Designed executive-level dashboards
+
 ✔ Practiced real-world SQL and BI storytelling
 
 ---
@@ -234,10 +242,13 @@ Financial_analyst_project/
 ## Author
 
 **Vikas Kumar**
+
 Financial Analytics | Data Analytics | Business Intelligence
 
 GitHub: [https://github.com/vikaskumar07-Code]
+
 LinkedIn: [https://www.linkedin.com/in/offivikas-kumar/]
+
 ---
 
 If you found this project interesting, feel free to connect or share feedback.
